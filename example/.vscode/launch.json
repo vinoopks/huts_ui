@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "configurations": [
+    {
+      "name": "Hellohuts UI Showcase",
+      "cwd": "example",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
